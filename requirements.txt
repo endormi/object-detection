@@ -1,0 +1,4 @@
+cvlib>=0.2.4
+matplotlib>=3.2.1
+opencv-python>=4.2.0.32
+tensorflow>=1.14.0
